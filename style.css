@@ -16,8 +16,8 @@ body {
     font-size: 25px;
     font-family: Open_Sans, sans-serif;
     text-align: center;
-    
 }
+
 .image {
     width: 230px; 
     height: auto; 
@@ -59,12 +59,12 @@ a:hover {
     font-weight: bold; 
 }
 
-
 @media (max-width: 960px) {
   .text-container {
     width: 650px;
   }
 }
+
 @media (max-width: 720px) {
   .text-container {
     width: 450px;
